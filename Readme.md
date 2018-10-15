@@ -8,3 +8,5 @@ I will use it to learn some basics about git
 
 ### Erwartungen an das Studium
 * Dies und das
+
+Einen zusätzlichen Kommentar
